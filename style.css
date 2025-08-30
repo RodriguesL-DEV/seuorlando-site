@@ -6,7 +6,6 @@ body {
   padding: 0;
   background-color: #f4f4f4;
   color: #333;
-  scroll-behavior: smooth; /* rolagem suave */
 }
 
 /* Cabeçalho com imagem de fundo */
@@ -147,6 +146,7 @@ img {
     font-size: 16px;
   }
 }
+
 
 
 
